@@ -1,0 +1,11 @@
+use bamazon;
+insert into products values (null,"iPhone3","Electronics",50,4);
+insert into products values (null,"iPhone4","Electronics",60,11);
+insert into products values (null,"iPhone5","Electronics",70,3);
+insert into products values (null,"iPhone5s","Electronics",80,7);
+insert into products values (null,"iPhone6","Electronics",100,4);
+insert into products values (null,"iPhone6s","Electronics",200,9);
+insert into products values (null,"iPhone7","Electronics",500,100);
+insert into products values (null,"iPhone8","Electronics",600,30);
+insert into products values (null,"iPhoneX","Electronics",700,45);
+insert into products values (null,"iPhoneR","Electronics",1000,66);
