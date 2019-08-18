@@ -18,3 +18,13 @@ List a set of menu options:
 ![](img/add.gif)
 ### Add New Product
 ![](img/new.gif)
+
+
+# How to Run
+For the first time only: in MySQL Workbench, connect to `localhost`, port: `3306` and run `init.sql` and `dataInsert.sql` to initialize the database.
+
+Then, in Bash, type:
+```
+node bamazonCustomer.js
+node bamazonManager.js
+```
